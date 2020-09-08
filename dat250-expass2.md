@@ -8,12 +8,14 @@ DAT250 - Experiment 2
 
 
 2. Link to code
+- https://github.com/Zylvian/dat250-expass/tree/master/expass2/eclipselink/jpa-basic/src
 
 3. Database inspection
 - I used IntelliJ's "Java Enterprise" tab to inspect the database tables:
 https://i.gyazo.com/15d62682c2802b57b727479c383ee90e.png
 
 - I also used IntelliJ's "Persistence" tab to create a HR diagram:
+https://i.gyazo.com/32e3875ecb95d857bafc5fea8b374bf7.png
 
 4. Pending issues
-- None, I don't think. 
+- I couldn't get the objects to store properly, returning null values when printing them out. I was not able to get to the bottom of this, but will ask my fellow students at a later time.
