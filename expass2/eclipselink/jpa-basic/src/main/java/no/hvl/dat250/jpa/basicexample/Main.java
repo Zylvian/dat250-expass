@@ -37,6 +37,7 @@ public class Main {
 
         // Link em
         card.setPincode(code);
+        code.setCreditCard(card);
 
         // Make person
         Person onePerson = new Person();
